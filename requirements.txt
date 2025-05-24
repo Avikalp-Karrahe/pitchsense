@@ -1,0 +1,6 @@
+openai
+anthropic
+python-dotenv
+fastapi
+uvicorn
+pyperclip
