@@ -84,4 +84,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/pitchsense](https://github.com/yourusername/pitchsense)
+Project Link: [https://github.com/Avikalp-Karrahe/pitchsense](https://github.com/avikalp-karrahe/pitchsense)
