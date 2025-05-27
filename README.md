@@ -1,9 +1,21 @@
 <p align="center">
-  <a href="#contributors-"><img alt="Contributors" src="https://img.shields.io/badge/Contributors-4-371C58?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/License-MIT-007ACC?style=flat-square&logo=mit&logoColor=white"/></a>
-  <a href="#"><img alt="AgentHacks 2025–Winner" src="https://img.shields.io/badge/AgentHacks_2025–Winner-EE6352?style=flat-square"/></a>
-  <a href="https://devpost.com/software/pitchsen"><img alt="Devpost Submission" src="https://img.shields.io/badge/Devpost-PitchSense-blue?style=flat-square&logo=devpost"/></a>
+  <a href="#contributors-">
+    <img alt="Contributors" src="https://img.shields.io/badge/Contributors-4-371C58?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="LICENSE">
+    <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-007ACC?style=flat-square&logo=mit&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="AgentHacks 2025 – Winner" src="https://img.shields.io/badge/AgentHacks_2025–Winner-EE6352?style=flat-square"/>
+  </a>
+  <a href="#">
+    <img alt="Most Impactful Award" src="https://img.shields.io/badge/Most_Impactful_Award🏆-FFD700?style=flat-square&labelColor=000000&color=000000" />
+  </a>
+  <a href="https://devpost.com/software/pitchsen">
+    <img alt="Devpost Submission" src="https://img.shields.io/badge/Devpost-PitchSense-blue?style=flat-square&logo=devpost"/>
+  </a>
 </p>
+
 
 # 🚀 PitchSense: Your AI Co-Pilot for Fundraising Success
 
@@ -78,8 +90,19 @@ Traditional fundraising involves manual investor discovery, generic pitches, and
 ---
 
 ## 🚀 Live Demo & Visuals
-- **[GitHub Repository](https://github.com/Avikalp-Karrahe/pitchsense)**
-- **[Demo Video (Loom)](https://www.loom.com)**
+
+<p align="center">
+  <a href="https://www.loom.com/share/551b3a4a03794d24b097952f0ec0f8b4?sid=b0f19d5a-650f-416b-813b-a6fa667ee125" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8c1bc60e-cf4d-4699-b41f-e7391d871415" alt="PitchSense Demo Preview" style="border-radius: 12px; max-width: 100%;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.loom.com/share/551b3a4a03794d24b097952f0ec0f8b4?sid=b0f19d5a-650f-416b-813b-a6fa667ee125" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Click_to_Watch-blue?style=for-the-badge&logo=loom" alt="Watch Loom Demo"/>
+  </a>
+</p>
+
 
 ---
 
