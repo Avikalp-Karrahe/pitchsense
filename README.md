@@ -58,6 +58,9 @@ PitchSense was originally developed at [AgentHacks 2025](https://www.agenthacks.
 
 [View Devpost Submission](https://devpost.com/software/pitchsen)
 
+This project was developed as part of the research track **Interfaces for Human-AI Collaboration** — focused on designing HCI interactions where AI doesn’t just automate, it collaborates.
+
+
 ---
 
 ## 🚩 The Challenge
