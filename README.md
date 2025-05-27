@@ -31,7 +31,7 @@
 
 ## 🏆 Awards
 - 🥇 **Most Impactful Award** – AgentHacks 2025  
-  Selected from 180+ submissions at [AgentHacks 2025](https://www.agenthacks.org), hosted by [Dex](https://meetdex.ai/), [AfterQuery](https://www.afterquery.com/), and [AGI House](https://www.agihouse.org). This award recognized PitchSense for its real-world relevance, agentic architecture, and polished execution under 48 hours.
+  Selected from 180+ submissions at [AgentHacks 2025](https://www.agenthacks.org), hosted by [Dex](https://meetdex.ai/), [AfterQuery](https://www.afterquery.com/), and [AGI House](https://www.agihouse.org). This award recognized PitchSense for its real-world relevance, agentic architecture, and polished execution under 24 hours.
 
 ---
 
