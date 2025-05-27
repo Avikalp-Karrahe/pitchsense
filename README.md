@@ -18,7 +18,8 @@
 ---
 
 ## 🏆 Awards
-- 🥇 **Most Impactful Award** – AgentHacks 2025
+- 🥇 **Most Impactful Award** – AgentHacks 2025  
+  Selected from 180+ submissions at [AgentHacks 2025](https://www.agenthacks.org), hosted by [Dex](https://meetdex.ai/), [AfterQuery](https://www.afterquery.com/), and [AGI House](https://www.agihouse.org). This award recognized PitchSense for its real-world relevance, agentic architecture, and polished execution under 48 hours.
 
 ---
 
@@ -38,7 +39,10 @@
 ---
 
 ## 🧠 Executive Summary
-PitchSense addresses the inefficiencies of traditional fundraising. By leveraging AI, it accelerates investor matching, creates tailored outreach materials, and manages communications seamlessly. This dramatically boosts the efficiency and success rate of fundraising efforts.
+
+PitchSense addresses the inefficiencies of traditional fundraising. By leveraging AI, it accelerates investor matching, generates tailored outreach materials, and manages communication pipelines end-to-end. The result: faster outreach, higher relevance, and better outcomes for founders.
+
+PitchSense was originally developed at [AgentHacks 2025](https://www.agenthacks.org), a leading hackathon focused on responsible, agentic AI systems. The event was hosted by [Dex](https://meetdex.ai/) and [AfterQuery](https://www.afterquery.com/)—both **Y Combinator-backed startups**—alongside [AGI House](https://www.agihouse.org), bringing together over 500 attendees to tackle real-world problems with intelligent agents. PitchSense was awarded **Most Impactful Project** for its practical relevance, clean UX, and strong technical execution.
 
 [View Devpost Submission](https://devpost.com/software/pitchsen)
 
@@ -173,19 +177,20 @@ Open <http://localhost:8501> to interact.
 
 | Name             | Role      | LinkedIn                                                | GitHub                                       |
 |------------------|-----------|---------------------------------------------------------|----------------------------------------------|
-| Avikalp Karrahe  | Backend   | [LinkedIn](https://www.linkedin.com/in/avikalp/)        | [GitHub](https://github.com/Avikalp-Karrahe) |
-| Yifei (Lexie) Li | Backend   | [LinkedIn](https://www.linkedin.com/in/yifeilexie/)     | [GitHub](https://github.com/Yifei-Lexie-Li)  |
-| Rachel Guo       | Frontend  | [LinkedIn](https://www.linkedin.com/in/rachel-guo0429/) | [GitHub](https://github.com/rachelqingguo)   |
-| Chaitanya Khot   | UX Design | [LinkedIn](https://www.linkedin.com/in/chaitanyakhot/)  | [GitHub](https://github.com/ckkhot)          |
+| Rachel Guo       | Frontend Lead | [LinkedIn](https://www.linkedin.com/in/rachel-guo0429/) | [GitHub](https://github.com/rachelqingguo)   |
+| Chaitanya Khot   | UI/UX Lead | [LinkedIn](https://www.linkedin.com/in/chaitanyakhot/)  | [GitHub](https://github.com/ckkhot)          |
+| Yifei (Lexie) Li | Backend Lead  | [LinkedIn](https://www.linkedin.com/in/yifeilexie/)     | [GitHub](https://github.com/Yifei-Lexie-Li)  |
+| Avikalp Karrahe  | AI Systems Lead   | [LinkedIn](https://www.linkedin.com/in/avikalp/)        | [GitHub](https://github.com/Avikalp-Karrahe) |
 
 ---
 
 ## 📜 License & Acknowledgments
 Distributed under the [MIT License](LICENSE).
 
-Special thanks to AgentHacks organizers, mentors, and our fellow participants for invaluable support and inspiration.
+Special thanks to the organizers of [AgentHacks 2025](https://www.agenthacks.org)—including [Dex](https://meetdex.ai/), [AfterQuery](https://www.afterquery.com/), and [AGI House](https://www.agihouse.org)—for fostering a space where ambitious agentic ideas like PitchSense could be built and celebrated.
 
 <div align="center">
 ⭐️ If you found PitchSense valuable, please star our <a href="https://devpost.com/software/pitchsen">Devpost Submission</a> and share it with your network! ⭐️<br/>
 You made it all the way here! Thank you for your time and support 🙌
 </div>
+
