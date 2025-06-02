@@ -56,7 +56,7 @@ PitchSense addresses the inefficiencies of traditional fundraising. By leveragin
 
 PitchSense was originally developed at [AgentHacks 2025](https://www.agenthacks.org), a leading hackathon focused on responsible, agentic AI systems. The event was hosted by [Dex](https://meetdex.ai/) and [AfterQuery](https://www.afterquery.com/)—both **Y Combinator-backed startups**—alongside [AGI House](https://www.agihouse.org), bringing together over 500 attendees to tackle real-world problems with intelligent agents. PitchSense was awarded **Most Impactful Project** for its practical relevance, clean UX, and strong technical execution.
 
-[View Devpost Submission](https://devpost.com/software/pitchsen)
+[View Devpost Submission](https://devpost.com/software/pitchsense)
 
 This project was developed as part of the research track **Interfaces for Human-AI Collaboration** — focused on designing HCI interactions where AI doesn’t just automate, it collaborates.
 
