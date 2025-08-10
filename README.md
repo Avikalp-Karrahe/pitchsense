@@ -20,7 +20,7 @@
 # 🚀 PitchSense: Your AI Co-Pilot for Fundraising Success
 
 <p align="center">
-  <img src="pitchsense_logo.png" alt="PitchSense Logo" width="600"/>
+  <img src="https://github.com/Avikalp-Karrahe/pitchsense/blob/main/frontend/public/pitchsense_logo.png" alt="PitchSense Logo" width="600"/>
 </p>
 
 **Streamline investor discovery, pitch generation, and outreach with AI-powered precision.**
